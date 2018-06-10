@@ -1,4 +1,4 @@
 # konenetl
-my first repository 
+My baby repository 
 
-I'm archaeologist, I love rock graphics and prehistory.
+I'm a mexican archaeologist, I love rock graphics and prehistory.
